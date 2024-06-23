@@ -30,4 +30,4 @@ Explication des principales parties du code:
 
 
 Exécution du projet:
-	Après avoir lancé le projet, il faut juste présenter les objets détectables (laptop ou souris) devant la caméra et voir le résultat de la détection par la suite.
+	Après avoir lancé le projet, il faut juste présenter les objets détectables (laptop ou souris) devant la caméra et voir le résultat de la détection par la suite. Vu que je n'ai pas pu importer le fichier yolov3.weights, vous devrez le télécharger, le mettre dans le dossier du projet au préalable avant de le lancer.
