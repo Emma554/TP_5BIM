@@ -29,5 +29,5 @@ Explication des principales parties du code:
 	Quitte la boucle et libère les ressources si la touche 'q' est pressée.
 
 
-EXECUTION DU PROJET 
-Après avoir lancé le projet, il faut juste présenter les objets détectables (laptop ou souris) devant la caméra et voir le résultat de la détection par la suite.
+Exécution du projet:
+	Après avoir lancé le projet, il faut juste présenter les objets détectables (laptop ou souris) devant la caméra et voir le résultat de la détection par la suite.
