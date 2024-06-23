@@ -8,7 +8,7 @@ YOLODetector:
 	
     .init
     
-    Charge le modèle YOLO avec les fichiers de configuration (yolov3.cfg) et de poids(yolov3.weights).
+    Charge le modèle YOLO avec les fichiers de configuration (yolov3.cfg) et de poids(yolov3.weights que je n'ai malheureusement pas pu importer car il est trop lourd).
     Récupère les noms des couches de sortie du réseau.
     Charge les noms des classes d'objets depuis un fichier (coco.names).
     
